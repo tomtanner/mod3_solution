@@ -1,0 +1,74 @@
+#header-nav
+{
+  border: 3px solid black;
+  background-color: grey;
+  border-radius: 0;
+  
+}
+.container {
+    margin-left: 15px;
+}
+.navbar-brand .com-name
+{
+  color: black ;
+  font-size: 1.2em;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.navbar-brand
+{
+  padding-left:0px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 2px solid black;
+
+}
+.collapse
+{
+}
+#nav-list li
+{
+  margin-top: 2px;
+  text-align: center;
+  color: black;
+  font-size: 1.2em;
+  margin:2px;
+}
+#nav-list
+{
+   margin: 0 -15px;
+}
+hr
+{
+
+  margin: 0px;
+  border-top:3px solid black;
+  width: 98%;
+  
+}
+#heading
+{
+  color: black;
+  font-weight: 10em !important;
+}
+.jumbotron
+{
+  padding: 0px;
+  color: black;
+  background-color:white;
+  margin: 10px auto;
+}
+.content
+{
+  background-color: grey;
+}
+.content h3
+{
+  padding-top:10px;
+  margin-top: ;
+  margin-bottom: ;
+}
+.content p
+{
+padding:0px 50px;
+}
