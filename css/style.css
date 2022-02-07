@@ -34,6 +34,9 @@
   font-size: 1.2em;
   margin:2px;
 }
+#nav-list li:hover {
+  background: #E7E7E7;
+}
 #nav-list
 {
    margin: 0 -15px;
